@@ -21,5 +21,10 @@ Attempted to run main.py on ubuntu shell - still getting a 13 error
 ![ubuntu error](https://github.com/E2codes/635-Midterm/assets/99756272/8a3f02f9-9f2b-4766-8b28-f8bf3ef77635)
 
 ATTEMPTED TO ADD PERMISSIONS
+
 postgres@LAPTOP-I4JA4G8M:/home/ea389$ chmod +rwx main.py
 chmod: cannot access 'main.py': Permission denied
+
+![psyc3](https://github.com/E2codes/635-Midterm/assets/99756272/e6719dd6-7b8e-46a1-81bd-55a5d62a77be)
+
+
